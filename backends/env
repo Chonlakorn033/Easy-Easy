@@ -1,0 +1,2 @@
+// .env นำข้อมูล Database Credentials ของเรามาใส่ค่ะDB_HOST=<db_host>
+POSTGRES_DNS = "postgres://root:p@sswd@2024@itdev.cmtc.ac.th:5432/db_67319010045?sslmode=disable"
